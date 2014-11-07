@@ -19,7 +19,7 @@
 程序语言
 -
 [深度探索C++对象模型](http://book.douban.com/subject/1091086/)  
-[Head First Design Pattern](http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)
+[Head First Design Pattern](http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)  
 [Python学习手册](http://book.douban.com/subject/6049132/)  
 Java/JavaScript  
 Objective-C/Swift  
