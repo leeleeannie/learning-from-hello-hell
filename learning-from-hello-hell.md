@@ -2,10 +2,18 @@
 =
 算法
 -
-《算法导论》
+[算法导论](http://book.douban.com/subject/1885170/)  
+[Leetcode](http://leetcode.com/)
 数据结构
 -
-数据库
+操作系统
 -
+[深入理解计算机系统](http://book.douban.com/subject/1896753/)
 计算机网络
 -
+[TCP/IP详解卷1](http://book.douban.com/subject/4707725/)
+数据库
+-
+面试指南
+-
+[Crack the Coding Interview](http://www.mktechnicalclasses.com/Notes/Cracking%20the%20Coding%20Interview,%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)
