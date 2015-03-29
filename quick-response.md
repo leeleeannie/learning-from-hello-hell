@@ -3,7 +3,7 @@
 atomic vs. nonatomic:
 * default / not default behaviour
 * slower / faster
-* [thread-safe](#WhatIsThreadSafe) / not thread-safe - Shared data which accessed by using atomic operations cannot be interrupted by other threads. That is, ensure multiple read/write to a single property are serialized. For nonatomic, if multiple threads try to read/write the property at once, which can easily lead to crashes.
+* [thread-safe](#WhatIsThreadSafe) / not thread-safe - Shared data which accessed by using atomic operations cannot be interrupted by other threads. That is, multiple read/write to a single property are serialized. For nonatomic, if multiple threads try to read/write the property at once, which can easily lead to crashes.
 
 #### Segue: push, modal?
 
@@ -11,7 +11,7 @@ atomic vs. nonatomic:
 
 #### What is memory leak?
 
-#### @interface vs. *implementation
+#### @interface vs. @implementation
 
 #### What is frame, bound and view?
 
