@@ -7,6 +7,10 @@
 
 #### strong vs. weak
 
+#### What is accessor methods?
+
+Simply getters and setters.
+
 #### Segue: push, modal?
 
 #### What is delegate?
