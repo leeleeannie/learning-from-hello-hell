@@ -4,7 +4,7 @@
 -
 数据结构（C语言版）  
 [算法导论](http://book.douban.com/subject/1885170/)  
-[剑指Offer](http://book.douban.com/subject/6966465/)
+[剑指Offer](http://book.douban.com/subject/6966465/)  
 [Crack the Coding Interview](http://www.mktechnicalclasses.com/Notes/Cracking%20the%20Coding%20Interview,%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)  
 [Leetcode](http://leetcode.com/)  
 [hihoCoder](http://hihocoder.com/contests)
