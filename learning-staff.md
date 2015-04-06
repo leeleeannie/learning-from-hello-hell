@@ -2,7 +2,7 @@
 =
 数据结构与算法
 -
-[数据结构（C语言版）]
+数据结构（C语言版）
 [算法导论](http://book.douban.com/subject/1885170/)  
 [剑指Offer](http://book.douban.com/subject/6966465/)
 [Crack the Coding Interview](http://www.mktechnicalclasses.com/Notes/Cracking%20the%20Coding%20Interview,%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)  
@@ -19,14 +19,14 @@
 -
 [深度探索C++对象模型](http://book.douban.com/subject/1091086/)  
 [Head First Design Pattern](http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)  
-Objective-C/Swift 
-Java 
+Objective-C/Swift  
+Java  
 C#
 客户端
 -
 HTML/CSS/JavaScript
 服务器端
 -
-PHP/MySQL
-JSON
-Python
+PHP/MySQL  
+JSON  
+Python  
