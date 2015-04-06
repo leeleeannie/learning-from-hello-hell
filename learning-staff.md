@@ -24,9 +24,8 @@ Java
 C#
 客户端
 -
-HTML/CSS/JavaScript
+HTML/CSS/JavaScript(JSON)
 服务器端
 -
-PHP/MySQL  
-JSON  
+PHP/MySQL 
 Python  
